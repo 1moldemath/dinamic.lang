@@ -1,3 +1,3 @@
 ## Jupyter Notebook
 
-Repo destined to study
+Here contains the base.

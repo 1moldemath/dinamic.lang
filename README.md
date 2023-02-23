@@ -1,4 +1,4 @@
-## Jupyter Notebook
+## Jupyter Notebook [Python]
 
 Here contains the base
 

@@ -9,17 +9,17 @@ O objetivo é consolidar o entendimento sobre como a linguagem Python pode ser u
 
 ## 📂 Estrutura do Projeto
 
-dinamic.lang/
+dinamic.lang/  
 │
-├── algorithms/ # Algoritmos clássicos e exemplos práticos
+├── algorithms/ # Algoritmos clássicos e exemplos práticos  
 │
-├── data-structures/ # Estruturas de dados implementadas em Python
+├── data-structures/ # Estruturas de dados implementadas em Python  
 │
-├── performance/ # Estudos sobre performance e complexidade
+├── performance/ # Estudos sobre performance e complexidade  
 │
-├── problems-solving/ # Desafios e exercícios práticos
+├── problems-solving/ # Desafios e exercícios práticos  
 │
-└── python/ # Fundamentos e conceitos avançados da linguagem
+└── python/ # Fundamentos e conceitos avançados da linguagem  
 
 
 ---
